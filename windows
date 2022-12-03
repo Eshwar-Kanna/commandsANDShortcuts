@@ -1,0 +1,8 @@
+
+
+
+winget  upgrade                 to upgrade the apllications 
+
+winger upgrade  --all           to upgrade all apllications 
+
+
